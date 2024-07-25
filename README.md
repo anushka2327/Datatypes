@@ -13,4 +13,9 @@ float: Single-precision floating-point type, typically occupies 4 bytes.
 double: Double-precision floating-point type, typically occupies 8 bytes.  
 long double: Extended precision floating-point type, larger than double (size varies by implementation).  
 Character Types:  
-char: Typically represents a single byte (8 bits) that can hold one character from the ASCII character set.  
+char: Typically represents a single byte (8 bits) that can hold one character from the ASCII character set. 
+## Code:
+Refer to the attatched file.
+## Output:
+Refer to the attached file.
+
